@@ -1,0 +1,10 @@
+.adminform{
+    background-color: rgb(221, 215, 201);
+    padding: 30px;
+    border-radius: 20px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto    ;
+    display: block;
+    margin-top: 50px
+}

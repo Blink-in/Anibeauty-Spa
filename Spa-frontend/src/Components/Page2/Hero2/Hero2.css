@@ -1,0 +1,56 @@
+.hero {
+  background-image: url(../../../assets/p3.avif);
+  height: 450px;
+}
+.overlay {
+  background-color: rgb(29, 28, 28, 0.1);
+  height: 450px;
+  padding: 8em 30px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  gap: 7em;
+  flex-wrap: wrap;
+}
+.button1 {
+  border-radius: 20px;
+  padding: 10px 20px;
+  background-color: rgb(143, 99, 17);
+  border-style: none;
+  color: white;
+}
+.span1 {
+  color: rgb(143, 99, 17);
+}
+.span2 {
+  color: rgb(100, 94, 94);
+}
+.head1 {
+  font-size: 40px;
+}
+.image2 {
+  height: 280px;
+  width: 18em;
+  margin-top: -1em;
+  border-top-left-radius: 5em;
+  border-bottom-right-radius: 5em;
+}
+@media (max-width: 894px) {
+  .hero {
+    height: 800px;
+  }
+  .overlay {
+    height: 800px;
+  }
+  .inner1 {
+    text-align: center;
+  }
+}
+@media (max-width: 493px) {
+  .overlay {
+    height: 1000px;
+  }
+  .hero {
+    height: 1000px;
+  }
+}

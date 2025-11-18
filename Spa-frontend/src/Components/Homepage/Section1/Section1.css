@@ -1,0 +1,33 @@
+.sec3 {
+    padding: 50px 50px;
+    background-color: rgba(228, 226, 222, 0.5);
+  }
+  .sec3n1 {
+    display: flex;
+    justify-content: center;
+    gap: 7em;
+    flex-wrap: wrap;
+  }
+  button {
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: rgb(143, 99, 17);
+    border-style: none;
+    color: white;
+  }
+  .span3 {
+    color: rgb(143, 99, 17);
+  }
+  .span4 {
+    color: rgb(100, 94, 94);
+  }
+  .head2 {
+    font-size: 23px;
+  }
+  .image2 {
+    height: 280px;
+    width: 15em;
+    margin-top: -20px;
+    border-radius: 10px;
+  }
+  

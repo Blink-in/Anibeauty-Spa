@@ -1,0 +1,65 @@
+.sec2div {
+  padding: 30px;
+  background-color: rgba(228, 226, 222, 0.5);
+}
+
+.sec2h4 {
+  color: rgb(143, 99, 17);
+  text-align: center;
+}
+.sec2h1 {
+  text-align: center;
+}
+.sec2para {
+  text-align: center;
+  color: rgb(100, 94, 94);
+}
+.facials {
+  background-color: goldenrod;
+  padding: 7px 15px;
+  color: whitesmoke;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: fit-content;
+}
+.gal1 {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 40px;
+  flex-wrap: wrap;
+}
+.beaut1 {
+  width: 22em;
+  height: auto;
+  border-radius: 15px;
+  transition: 0.5s;
+}
+.beaut2 {
+  width: 22em;
+  height: auto;
+  border-radius: 15px;
+  transition: 0.5s;
+}
+.beaut3 {
+  width: 22em;
+  height: auto;
+  border-radius: 15px;
+  transition: 0.5s;
+}
+
+.more {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 40px;
+}
+button:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+.morelink {
+  text-decoration: none;
+}
