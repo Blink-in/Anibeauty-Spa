@@ -1,6 +1,6 @@
 const express = require('express');
 const jwt = require('jsonwebtoken');
-const bcrypt = require("bcrypt")
+const bcrypt = require("bcryptjs")
 const generateToken = require("../utils/jwt.js")
 const Admin = require('../module/adminModule.js');
 
